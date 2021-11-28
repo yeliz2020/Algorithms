@@ -17,3 +17,6 @@ Dizi sıralandıktan sonra 18 sayısı Average Case kapsamına girer.
 ---
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı
+
+
+<img width="438" alt="Ekran Resmi 2021-11-28 23 11 03" src="https://user-images.githubusercontent.com/69525712/143785195-05559f98-deec-4d4e-89a7-4c327c6506c5.png">
