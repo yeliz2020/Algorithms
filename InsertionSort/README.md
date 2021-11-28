@@ -1,6 +1,7 @@
 # Insertion Sort
 
-<img width="909" alt="Ekran Resmi 2021-11-28 21 17 39" src="https://user-images.githubusercontent.com/69525712/143781503-314ccb5f-af49-4c5b-85b5-8247eb5d3e21.png">
+<img width="911" alt="Ekran Resmi 2021-11-28 22 31 02" src="https://user-images.githubusercontent.com/69525712/143783085-a14e27b3-0848-4492-b455-3d6e388ff8e1.png">
+
 
 ### Big O ve Time Complexity
 | | |
