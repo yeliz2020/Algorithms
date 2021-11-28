@@ -1,5 +1,7 @@
 # Insertion Sort
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif" srcset="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif 1x" alt="">
+
 <img width="911" alt="Ekran Resmi 2021-11-28 22 31 02" src="https://user-images.githubusercontent.com/69525712/143783085-a14e27b3-0848-4492-b455-3d6e388ff8e1.png">
 
 ##### Big O ve Time Complexity
